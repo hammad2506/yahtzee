@@ -112,7 +112,6 @@ class Game extends Component {
               >
                 {this.displayRollInfo()}
               </button>
-              >
             </div>
           </section>
         </header>
